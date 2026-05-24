@@ -158,10 +158,6 @@ Check out everything else — portfolio site source, encryption demos, Unity exp
 </tr>
 </table>
 
-## Language Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnbrake&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1B9AAA&text_color=c9d1d9&icon_color=124E78)
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-brake/)
