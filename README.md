@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=124E78:1B9AAA&height=100&section=header&text=&fontSize=1"/>
+<img src="./assets/header-banner.svg" width="100%" alt=""/>
+
+<br/>
 
 ### Hannah Brake
 
