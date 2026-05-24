@@ -1,170 +1,199 @@
-# Hey, I'm Hannah 👋
+<div align="center">
 
-**Software Test Engineer · Curious Tinkerer · Side Project Adventurer**
+<img src="https://capsule-render.vercel.app/api?type=soft&color=124E78:1B9AAA&height=100&section=header&text=&fontSize=1"/>
 
-I spend a lot of time making sure software actually works — chasing down failures before they reach users and caring that what ships is solid. I also love building things on the side: embedded prototypes, games, web apps, and the occasional custom device that starts as a late-night idea.
+### Hannah Brake
 
-When I'm not testing or tinkering, I'm probably hiking, learning a song on guitar, or listening to vinyl while pretending I have shelf space left 😄
-
-- 🔧 Currently working as a **Software Test Engineer** in Ottawa
-- 🛠️ Often building **embedded projects**, games, and hardware-curious side repos
-- 🌐 Portfolio: [hannahbrake.netlify.app](https://hannahbrake.netlify.app/)
-- 📄 Resume: [download PDF](https://hannahbrake.netlify.app/assets/resume/Hannah_Brake_Resume_V2.pdf)
-- ⚡ Fun fact: I'll happily break something in a test lab so it doesn't break for someone else later
+*Software Test Engineer · Curious Tinkerer · Side Project Adventurer*
 
 <br/>
 
-## Tech Stack
+[![Portfolio](https://img.shields.io/badge/↗_Portfolio-124E78?style=for-the-badge)](https://hannahbrake.netlify.app/)
+[![Resume](https://img.shields.io/badge/↗_Resume-1B9AAA?style=for-the-badge)](https://hannahbrake.netlify.app/assets/resume/Hannah_Brake_Resume_V2.pdf)
+[![LinkedIn](https://img.shields.io/badge/↗_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hannah-brake/)
+[![Email](https://img.shields.io/badge/↗_Email-EA4335?style=for-the-badge)](mailto:hnbrakemun@gmail.com)
+
+</div>
+
+---
+
+> I spend a lot of time making sure software actually works — chasing down failures before they reach users and caring that what ships is solid.
+>
+> Off the clock I'm building embedded prototypes, games, web apps, and the occasional custom device that started as a late-night idea. Otherwise: hiking, guitar, vinyl, and pretending I have shelf space left.
 
 <table>
 <tr>
-<td width="200"><b>🧪 QA & Testing</b></td>
-<td>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+#### 🧪 By day
+
+Software test engineer in **Ottawa** — automation, system validation, and the satisfying moment when a bug actually reproduces.
 
 </td>
-</tr>
-<tr>
-<td width="200"><b>💻 Languages</b></td>
-<td>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+#### 🛠️ By night
 
-</td>
-</tr>
-<tr>
-<td width="200"><b>📱 Apps & Web</b></td>
-<td>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="200"><b>🛠️ Embedded & Hardware</b></td>
-<td>
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0091BD?style=flat-square&logo=freertos&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-00629B?style=flat-square&logo=intel&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-8B5CF6?style=flat-square&logo=ieee&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="200"><b>🗄️ Databases & Tools</b></td>
-<td>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+Side repos, hardware-curious experiments, Unity games, and projects that exist because I wondered *"could I?"*
 
 </td>
 </tr>
 </table>
 
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=2&section=footer" width="100%"/>
+
+## Build log
+
+<sub>Side projects & experiments I'm proud of — tap a name to open the repo.</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="220" valign="top">
 
-### [exPCB](https://github.com/hnbrake/exPCB)
+**[`exPCB`](https://github.com/hnbrake/exPCB)**  
+<sub>web · hardware education</sub>
 
-Interactive web app for learning hardware fundamentals — FPGAs, memory, CMOS, PLLs, and power.
+<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Web](https://img.shields.io/badge/Web-App-124E78?style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware-Education-1B9AAA?style=flat-square)
+![Web](https://img.shields.io/badge/Web-124E78?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware-1B9AAA?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### [Left For Bread](https://github.com/hnbrake/LeftForBread)
-
-Zombie survival game inspired by Left 4 Dead and Black Ops Zombies — built with a team in Unity.
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game_Dev-124E78?style=flat-square)
+Interactive web app for learning FPGAs, memory, CMOS, PLLs, and power.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=1&section=footer" width="100%"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### [weather-app](https://github.com/hnbrake/weather-app)
+**[`Left For Bread`](https://github.com/hnbrake/LeftForBread)**  
+<sub>game dev</sub>
 
-iOS weather app with current-location data and a seven-day forecast.
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+</td>
+<td valign="top">
+
+Zombie survival inspired by L4D and Black Ops Zombies — team-built in Unity.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=1&section=footer" width="100%"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[`weather-app`](https://github.com/hnbrake/weather-app)**  
+<sub>iOS</sub>
+
+<br/>
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![API](https://img.shields.io/badge/API-Integration-1B9AAA?style=flat-square)
+![API](https://img.shields.io/badge/API-1B9AAA?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### [checkpoint-device](https://github.com/hnbrake/checkpoint-device)
+Current-location weather and a seven-day forecast.
 
-Security checkpoint prototype with rounds and checkpoint logic — Raspberry Pi, Python, GPIO LCD, and MySQL.
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=1&section=footer" width="100%"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**[`checkpoint-device`](https://github.com/hnbrake/checkpoint-device)**  
+<sub>embedded</sub>
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
+<td valign="top">
+
+Security checkpoint prototype — Raspberry Pi, Python, GPIO LCD, and MySQL.
+
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=1&section=footer" width="100%"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### Killick-1 · Canadian Space Agency
+**Killick-1**  
+<sub>CSA satellite · Memorial University</sub>
 
-Mission Control Subsystem software for Memorial University's satellite — embedded C, FreeRTOS, and HIL testing.
+<br/>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0091BD?style=flat-square&logo=freertos&logoColor=white)
-![Embedded](https://img.shields.io/badge/Space-Systems-124E78?style=flat-square)
+![Embedded](https://img.shields.io/badge/Space-124E78?style=flat-square)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### [Explore More →](https://github.com/hnbrake?tab=repositories)
-
-Check out everything else — portfolio site source, encryption demos, Unity experiments, and more side builds.
-
-![GitHub](https://img.shields.io/badge/GitHub-@hnbrake-181717?style=flat-square&logo=github&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hannahbrake.netlify.app-124E78?style=flat-square&logo=googlechrome&logoColor=white)](https://hannahbrake.netlify.app/)
+Mission Control Subsystem software — embedded C, FreeRTOS, and HIL testing.
 
 </td>
 </tr>
 </table>
 
-## Let's Connect
+<p align="center">
+  <a href="https://github.com/hnbrake?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_all_repos-@hnbrake-124E78?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-brake/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hnbrakemun@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-124E78?style=flat&logo=googlechrome&logoColor=white)](https://hannahbrake.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-1B9AAA?style=flat&logo=adobeacrobatreader&logoColor=white)](https://hannahbrake.netlify.app/assets/resume/Hannah_Brake_Resume_V2.pdf)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=2&section=footer" width="100%"/>
+
+## Tools I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,vscode,ts,swift,cs,java,c,cpp,unity,mysql,raspberrypi,arduino&perline=7" alt="Skills"/>
+</p>
+
+<p align="center">
+  <sub>also · VHDL · FreeRTOS · Bash · Xcode · Wireshark</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=2&section=footer" width="100%"/>
+
+<div align="center">
+
+**MUN** · B.Eng. Computer Engineering · 3.77 GPA · Dean's List
 
 <br/>
 
-Memorial University **B.Eng. Computer Engineering** · 3.77 GPA · Dean's List · Ottawa, ON
+<sub>say hi — test automation, side projects, embedded builds, or music</sub>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/hannah-brake/)
+[![Email](https://img.shields.io/badge/gmail-EA4335?style=social&logo=gmail)](mailto:hnbrakemun@gmail.com)
+
+</div>
