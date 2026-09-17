@@ -6,7 +6,7 @@
 
 ### Hannah Brake
 
-*Software Test Engineer · Curious Tinkerer · Side Project Adventurer*
+*Software Test Engineer · Curious Tinkerer · Side Project Prototyper*
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 > I spend a lot of time making sure software actually works — chasing down failures before they reach users and caring that what ships is solid.
 >
-> Off the clock I'm building embedded prototypes, games, web apps, and the occasional custom device that started as a late-night idea. Otherwise: hiking, guitar, vinyl, and pretending I have shelf space left.
+> Off the clock I'm building personalized Swift apps, games, web apps, and the occasional custom device that started as a late-night idea. Otherwise: hiking, guitar, vinyl collecting, and pretending I have shelf space left.
 
 <table>
 <tr>
@@ -37,6 +37,65 @@ Software test engineer in **Ottawa** — automation, system validation, and the 
 #### 🛠️ By night
 
 Side repos, hardware-curious experiments, Unity games, and projects that exist because I wondered *"could I?"*
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=2&section=footer" width="100%"/>
+
+## Apps and Widgets to personalize my MacBook just for me!
+
+<sub>Three small Swift apps that reshape how my MacBook feels day to day.</sub>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[`WelcomeIsland`](https://github.com/hnbrake/WelcomeIsland)**  
+<sub>notch · greeting</sub>
+
+<br/>
+
+On login or unlock, an island expands around the camera notch to say hi, then cycles through upcoming Calendar events and suggested apps.
+
+<br/>
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Calendar](https://img.shields.io/badge/Calendar-1B9AAA?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+**[`ResourceMonitor`](https://github.com/hnbrake/ResourceMonitor)**  
+<sub>menu bar · metrics</sub>
+
+<br/>
+
+Live CPU, memory, and network usage in the menu bar, plus a floating desktop panel and a WidgetKit widget for a richer view.
+
+<br/>
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![WidgetKit](https://img.shields.io/badge/WidgetKit-124E78?style=flat-square)
+
+</td>
+<td width="33%" valign="top">
+
+**[`WindowSide`](https://github.com/hnbrake/WindowSide)**  
+<sub>app switcher · side panel</sub>
+
+<br/>
+
+Nudge the pointer to the left edge and a glassy panel slides out with every app that has a visible window — click to switch.
+
+<br/>
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![AppKit](https://img.shields.io/badge/AppKit-1B9AAA?style=flat-square)
 
 </td>
 </tr>
@@ -176,11 +235,16 @@ Mission Control Subsystem software — embedded C, FreeRTOS, and HIL testing.
 ## Tools I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,vscode,ts,swift,cs,java,c,cpp,unity,mysql,raspberrypi,arduino&perline=7" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,notion,ts,swift,cs,java,c,cpp,unity,mysql,raspberrypi,arduino&perline=6" alt="Skills"/>
 </p>
 
 <p align="center">
-  <sub>also · VHDL · FreeRTOS · Bash · Xcode · Wireshark</sub>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+</p>
+
+<p align="center">
+  <sub>also · VHDL · FreeRTOS · Wireshark</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=2&section=footer" width="100%"/>
