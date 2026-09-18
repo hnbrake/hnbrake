@@ -46,16 +46,20 @@ Side repos, hardware-curious experiments, Unity games, and projects that exist b
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=124E78:1B9AAA&height=2&section=footer" width="100%"/>
 
-## Apps and Widgets to personalize my MacBook just for me!
+## Personalizing my MacBook just for me!
 
 <sub>Three small Swift apps that reshape how my MacBook feels day to day.</sub>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **[`WelcomeIsland`](https://github.com/hnbrake/WelcomeIsland)**  
 <sub>notch · greeting</sub>
+
+<br/>
+
+<img src="./assets/demos/welcome-island.png" width="100%" alt="WelcomeIsland demo"/>
 
 <br/>
 
@@ -68,10 +72,16 @@ On login or unlock, an island expands around the camera notch to say hi, then cy
 ![Calendar](https://img.shields.io/badge/Calendar-1B9AAA?style=flat-square)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **[`ResourceMonitor`](https://github.com/hnbrake/ResourceMonitor)**  
 <sub>menu bar · metrics</sub>
+
+<br/>
+
+<img src="./assets/demos/resource-monitor-menu.png" width="100%" alt="ResourceMonitor menu bar"/>
+
+<img src="./assets/demos/resource-monitor-panel.png" width="100%" alt="ResourceMonitor desktop panel"/>
 
 <br/>
 
@@ -84,10 +94,14 @@ Live CPU, memory, and network usage in the menu bar, plus a floating desktop pan
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-124E78?style=flat-square)
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **[`WindowSide`](https://github.com/hnbrake/WindowSide)**  
 <sub>app switcher · side panel</sub>
+
+<br/>
+
+<img src="./assets/demos/window-side.png" width="70%" alt="WindowSide demo"/>
 
 <br/>
 
