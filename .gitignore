@@ -4,5 +4,8 @@ preview.html
 # Python virtual environment for grip
 .venv/
 
+# Logo originals / backups
+assets/my-logo-original.png
+
 # macOS
 .DS_Store

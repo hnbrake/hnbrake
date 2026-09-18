@@ -4,6 +4,8 @@
 
 <br/>
 
+<img src="./assets/my-logo.png" width="120" alt="HB logo"/>
+
 ### Hannah Brake
 
 *Software Test Engineer · Curious Tinkerer · Side Project Prototyper*
